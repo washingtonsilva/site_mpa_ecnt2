@@ -1,3 +1,12 @@
+---
+lang: pt-BR
+title: "Programa da Disciplina"
+subtitle: "Econometria II - 2026/1 <br> Mestrado Profissional em Administração"
+author: "Prof. Dr. Washington S. da Silva"
+---
+
+
+
 ## Requisitos para a Disciplina
 
 Ainda que não tenham sido exigidos pré-requisitos formais, 
