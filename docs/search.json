@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "programa.html",
+    "href": "programa.html",
+    "title": "Econometria II",
+    "section": "",
+    "text": "Ainda que não tenham sido exigidos pré-requisitos formais, como constava no edital de disciplinas optativas, consta que para conseguir acompanhar esta disciplina optativa, recomendava-se fortemente que o aluno tenha cursado, com aprovação, as seguintes discplinas do Mestrado Profissional em Administração:\n\nIntrodução à Ciência de Dados\nEconometria Aplicada à Finanças.\n\nEscrevi isto, por que assumirei que o aluno da disciplina possui os conhecimentos necessários fornecidos nestas disciplinas, incluindo:\n\nLinguagem R\nRstudio como IDE para R\nSistema de Publicação Quarto\nControle de Versão com Git e GitHub\nConhecimento intermediário de Teoria da Probabilidade\nConhecimento intermediário de Inferência Estatística\nConhecimento Intermediário de Teoria de Modelos de Regressão",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#requisitos-para-a-disciplina",
+    "href": "programa.html#requisitos-para-a-disciplina",
+    "title": "Econometria II",
+    "section": "",
+    "text": "Ainda que não tenham sido exigidos pré-requisitos formais, como constava no edital de disciplinas optativas, consta que para conseguir acompanhar esta disciplina optativa, recomendava-se fortemente que o aluno tenha cursado, com aprovação, as seguintes discplinas do Mestrado Profissional em Administração:\n\nIntrodução à Ciência de Dados\nEconometria Aplicada à Finanças.\n\nEscrevi isto, por que assumirei que o aluno da disciplina possui os conhecimentos necessários fornecidos nestas disciplinas, incluindo:\n\nLinguagem R\nRstudio como IDE para R\nSistema de Publicação Quarto\nControle de Versão com Git e GitHub\nConhecimento intermediário de Teoria da Probabilidade\nConhecimento intermediário de Inferência Estatística\nConhecimento Intermediário de Teoria de Modelos de Regressão",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#objetivo-geral",
+    "href": "programa.html#objetivo-geral",
+    "title": "Econometria II",
+    "section": "Objetivo Geral",
+    "text": "Objetivo Geral\nEstudar modelos univariados e multivariados de séries temporais com aplicações a dados financeiros, com ênfase em estimação, diagnóstico, previsão e comunicação reprodutível de resultados em R. Serão abordados modelos de regressões dinâmicas (DL e ARDL), modelos ARMA/ARIMA, testes de raiz unitária, modelos de volatilidade (ARCH/GARCH) e modelos multivariados (VAR), além de uma introdução à cointegração e ao VECM.",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#objetivos-específicos",
+    "href": "programa.html#objetivos-específicos",
+    "title": "Econometria II",
+    "section": "Objetivos Específicos",
+    "text": "Objetivos Específicos\nAo final da disciplina, espera-se que o mestrando seja capaz de:\n\nDiferenciar séries temporais de dados em seção cruzada e reconhecer implicações para modelagem e inferência.\nRealizar análise exploratória de séries temporais em R e descrever padrões relevantes.\nAjustar, interpretar e diagnosticar modelos ARMA/ARIMA.\nProduzir previsões com modelos ARIMA e avaliar desempenho preditivo contra outros modelos.\nAplicar e interpretar testes de raiz unitária.\nAjustar e interpretar modelos ARCH/GARCH para volatilidade condicional.\nEstimar e interpretar Vetores Autorregressivos (VAR), incluindo causalidade de Granger e análise de impulso-resposta.\nCompreender cointegração e ECM e reconhecer o papel do VECM como extensão.\nProduzir relatórios reprodutíveis em Quarto com código em R.",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#avaliação",
+    "href": "programa.html#avaliação",
+    "title": "Econometria II",
+    "section": "Avaliação",
+    "text": "Avaliação\nTrata-se de um planejamento e pode ser alterado conforme o andamento da disciplina.\n\nAvaliação 1 (33 pontos)\nAvaliação 2 (33 pontos)\nAvaliação 3 (34 pontos)\n\nCritério de aprovação: nota média final igual ou superior a 60 pontos.",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#bibliografia-básica",
+    "href": "programa.html#bibliografia-básica",
+    "title": "Econometria II",
+    "section": "Bibliografia Básica",
+    "text": "Bibliografia Básica\nBROOKS, C. Introductory Econometrics for Finance. 4th. ed. Cambridge: Cambridge University Press, 2019.",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#bibliografia-complementar",
+    "href": "programa.html#bibliografia-complementar",
+    "title": "Econometria II",
+    "section": "Bibliografia Complementar",
+    "text": "Bibliografia Complementar\nHILL, R. C.; GRIFFITHS, W. E.; JUDGE, G. G. Econometria. 3. ed.  São Paulo: Saraiva, 2003.\nMORETTIN, P. A. Econometria Financeira: um curso em séries temporais e financeiras. 2. ed. São Paulo: Edgar Blucher, 2011.",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#recursos-online",
+    "href": "programa.html#recursos-online",
+    "title": "Econometria II",
+    "section": "Recursos Online",
+    "text": "Recursos Online\nVenables, W. N. & Smith, D. M. (2025). An Introduction to R. Manual para R versão 4.5.1 (13 de junho de 2025). R Core Team. Disponível em https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf\nDocumentação do Sistema Quarto",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#ementa",
+    "href": "programa.html#ementa",
+    "title": "Econometria II",
+    "section": "Ementa",
+    "text": "Ementa\nIntrodução à Análise de Séries Temporais. Introdução à Análise de Séries Temporais em R. Modelos de Defasagem Distribuída e Modelos Autorregressivos de Defasagem Distribuída. Modelos Univariados: ARMA/ARIMA, previsão, testes de raiz unitária. Modelos de volatilidade condicional (ARCH/GARCH). Cointegração e Modelos de Correção de Erro (ECM). Modelos multivariados: Vetores Autorregressivos (VAR), introdução ao VECM.",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#conteúdo-planejado",
+    "href": "programa.html#conteúdo-planejado",
+    "title": "Econometria II",
+    "section": "Conteúdo Planejado",
+    "text": "Conteúdo Planejado\nTrata-se apenas de um planejamento e pode ser alterado conforme o andamento da disciplina e rendimento dos alunos.\n\n1 Fundamentos e organização do trabalho (R/Quarto/Git)\n\nApresentação da disciplina\nConceitos básicos de séries temporais\nOrganização de projeto reprodutível para a disciplina.\n\n\n\n2 Introdução à análise de séries temporais em R\n\nConceitos básicos\nClasses de séries temporais em R.\nVisualização de séries temporais e interpretação de padrões visuais.\n\n\n\n3. Regressões dinâmicas: DL e ARDL\n\nModelos de Defasagem Distribuída (DL)\nModelos Autorregressivos de Defasagem Distribuída (ARDL)\n\n\n\n4 Processos estacionários e modelos ARMA\n\nModelos AR, MA e ARMA\nIdentificação e Estimação de modelos ARMA\nDiagnóstico\n\n\n\n5. Modelos ARIMA e Previsão\n\nMetodologia de Box e Jenkins\nPrevisão e avaliação preditiva: erro de previsão\n\n\n\n6. Raiz unitária e cointegração\n\nMotivação\nTestes de raiz unitária\nCointegração\nModelos de Correção de Erro (ECM)\n\n\n\n7. Modelos ARCH/GARCH\n\nFatos estilizados em retornos financeiros\nModelos ARCH/GARCH: estimação, interpretação e diagnóstico.\nPrevisão da volatilidade e aplicação financeira.\n\n\n\n8. Séries multivariadas: VAR\n\nVetores Autorregressivos (VAR)\nCausalidade de Granger.\nFunções impulso-resposta e decomposição da variância do erro de previsão.\nTópico Extra (se houver tempo): Introdução ao VECM",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#recursos-didáticos-e-materiais-de-estudo",
+    "href": "programa.html#recursos-didáticos-e-materiais-de-estudo",
+    "title": "Econometria II",
+    "section": "Recursos Didáticos e Materiais de Estudo",
+    "text": "Recursos Didáticos e Materiais de Estudo\nEntre os recursos didáticos utilizados na disciplina estão:\n\nMateriais Primários para Estudo:\n\nBibliografia recomendada.\nSite da disciplina\nGitHub ou Google Classroom para submissão de atividades.\nSlides e notas de aula (disponibilizados no site da disciplina).",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#metodologia-de-ensino",
+    "href": "programa.html#metodologia-de-ensino",
+    "title": "Econometria II",
+    "section": "Metodologia de Ensino",
+    "text": "Metodologia de Ensino\nA disciplina será conduzida de forma teórico-aplicada, com ênfase em implementação computacional e interpretação substantiva.\n\nAulas expositivas: apresentação dos conceitos e modelos.\nAulas práticas: Em cada aual, parte relevante do tempo será dedicada à implementação dos métodos em R pelos mestrandos.\nSimulações como ferramenta didática.\nAtividades aplicadas.",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#plano-de-aula",
+    "href": "programa.html#plano-de-aula",
+    "title": "Econometria II",
+    "section": "Plano de Aula",
+    "text": "Plano de Aula\nTrata-se apenas de um planejamento e, como todo planejamento, pode ser alterado conforme o andamento da disciplina e o rendimento dos alunos.\n\n\n\n\n\n\n\n\nAula\nData\nTópico\n\n\n\n\n1\n04/03/2026\nApresentação da disciplina. Conceitos básicos de séries temporais. Organização do workflow (R/Quarto/Git). EDA inicial de séries financeiras.\n\n\n2\n11/03/2026\nRegressões dinâmicas: modelos DL e ARDL.\n\n\n3\n18/03/2026\nEstacionariedade e dependência temporal. Processos AR, MA e ARMA.\n\n\n4\n25/03/2026\nModelos ARIMA. Previsões. Avaliação 1 (parcial – ~1h30): atividade sobre DL/ARDL + conceitos básicos.\n\n\n5\n01/04/2026\nTestes de raiz unitária. Introdução à cointegração e ECM\n\n\n6\n08/04/2026\nFatos estilizados de séries financeiras. Modelos ARCH/GARCH. Avaliação 2 (parcial – ~1h30): atividade envolvendo ARIMA e/ou ARCH/GARCH.\n\n\n7\n15/04/2026\nVAR, Causalidade de Granger, Impulso-Resposta. VECM\n\n\n8\n22/04/2026\nAvaliação 3 (2h – integral): avaliação final integrando um tema univariado e um multivariado",
+    "crumbs": [
+      "Início",
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "cronograma.html",
+    "href": "cronograma.html",
+    "title": "Cronograma",
+    "section": "",
+    "text": "Nesta página, você encontrará o cronograma completo da disciplina, com links para os materiais de cada aula, incluindo slides, dados, referências para leitura, entre outros.\n\n\n\n\n\n\nDicaComo navegar pelos slides\n\n\n\nOs slides desta disciplina são interativos e foram produzidos no formato revealjs.\nAo abrir um arquivo de slides, utilize:\n\nSetas do teclado (← →) para avançar e voltar\n\nTecla F para entrar no modo de tela cheia\n\nTecla O para visualizar todos os slides em formato de grade\n\nTecla Esc para sair do modo de visão geral\n\nEm dispositivos móveis, utilize o gesto de deslizar para os lados\n\nOs slides são disponibilizados em HTML autocontido e abrem em nova aba do seu navegador padrão.\n\n\n\nAula 1 (04/03)\n\nSlides: INSERIR",
+    "crumbs": [
+      "Início",
+      "Cronograma"
+    ]
+  },
+  {
+    "objectID": "ambiente.html",
+    "href": "ambiente.html",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "",
+    "text": "Assume-se que os alunos matriculados já possuam os softwares necessários para acompanhar a disciplina Econometria II. Mas, caso necessário, esta página contém instruções para instalação e configuração destes softwares.\n\n\n\n\n\n\nDicaImportante\n\n\n\n\nÉ importante instalar e configurar todos os softwares antes da primeira aula\nUtilizaremos o RStudio como IDE e o sistema Quarto para utilizar a linguagem R, mas é possível utilizar outros IDEs como Visual Studio Code, Positron, entre outros, caso os utilize.",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#visão-geral",
+    "href": "ambiente.html#visão-geral",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "",
+    "text": "Assume-se que os alunos matriculados já possuam os softwares necessários para acompanhar a disciplina Econometria II. Mas, caso necessário, esta página contém instruções para instalação e configuração destes softwares.\n\n\n\n\n\n\nDicaImportante\n\n\n\n\nÉ importante instalar e configurar todos os softwares antes da primeira aula\nUtilizaremos o RStudio como IDE e o sistema Quarto para utilizar a linguagem R, mas é possível utilizar outros IDEs como Visual Studio Code, Positron, entre outros, caso os utilize.",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#softwares-necessários",
+    "href": "ambiente.html#softwares-necessários",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "Softwares Necessários",
+    "text": "Softwares Necessários\n\nLinguagem R 4.5.2\nRStudio\nSistema Quarto\nTinyTeX\nGit\nCriar Conta no GitHub",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#sec-r",
+    "href": "ambiente.html#sec-r",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "Linguagem R",
+    "text": "Linguagem R\n\n\n\n\n\n\nDicaInstalando a Linguagem R 4.5.2\n\n\n\n\nAcesse https://cloud.r-project.org/\nSelecione o sistema operacional ou, se usar Ms Windows, clique em Download R for Windows por exemplo.\nNa página seguinte clique em base\nClique em Download R-4.5.2 for Windows\nFeito o download basta ir clicando em próximo/next até a instalação ser concluída.",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#sec-rstudio",
+    "href": "ambiente.html#sec-rstudio",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "RStudio",
+    "text": "RStudio\n\n\n\n\n\n\nDicaInstalando o IDE RStudio\n\n\n\n\nAcesse https://posit.co/download/rstudio-desktop/\nEm geral, o site detecta seu sistema operacional e disponibiliza o instalador adequado logo abaixo de 2: Install RStudio.\nClique em Download RStudio Desktop for Windows caso seu sistema operacional seja Windows.\nFinalizado o download, basta clicar no arquivo e, em seguida, clicar em em continuar/avançar/next até o início da instalação.",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#sec-quarto",
+    "href": "ambiente.html#sec-quarto",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "Sistema Quarto",
+    "text": "Sistema Quarto\n\n\n\n\n\n\nDicaInstalando o Sistema de Publicação Quarto\n\n\n\n\nAcesse https://quarto.org/docs/download/\nClique em Download Quarto CLI e, finalizado o download, instale clicando no arquivo.\nFinalizado o download, basta clicar no arquivo e, em seguida, clicar em em continuar/avançar/next até o início da instalação.",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#sec-git",
+    "href": "ambiente.html#sec-git",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "Git",
+    "text": "Git\n\n\n\n\n\n\nDicaInstalando o Git no Windows\n\n\n\n\nAcesse o site oficial do Git: git-scm.com\nClique em Download for Windows, exibido em um terminal.\nApós o download, execute o instalador.\nSiga os passos do instalador, mantenha as configurações padrão sugeridas até o item 5.\nHá uma excecão, quando chegar na janela de título Adjusting the name of the initial branch, marque a opção Override the defaul e escreva main no campo apropriado.\nClique em Next nas próximas janelas e finalize a instalação.",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#configurando-o-git",
+    "href": "ambiente.html#configurando-o-git",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "Configurando o Git",
+    "text": "Configurando o Git\n\n\n\n\n\n\nDicaConfigurar o Usuário\n\n\n\n\nAbra o Git Bash (encontrado no menu Iniciar do Windows após a instalação).\nConfigure seu nome de usuário digitando:\n\ngit config --global user.name \"SeuNome\"\n\n\n\n\n\n\n\n\nDicaConfigurar o email\n\n\n\n\nConfigure seu e-mail digitando:\n\ngit config --global user.email \"seuemail@exemplo.com\"\n\n\n\n\n\n\n\n\nDicaVerificando as Configurações\n\n\n\n\nPara verificar suas configurações, use:\n\ngit config --list",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#sec-github",
+    "href": "ambiente.html#sec-github",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "GitHub",
+    "text": "GitHub\n\n\n\n\n\n\nDicaCriando uma Conta no GitHub\n\n\n\n\nAcesse github.com\nClique em Sign up para criar uma nova conta.\nPreencha os campos solicitados:\n\nUsername: Escolha um nome de usuário.\nEmail: Insira seu endereço de e-mail.\nPassword: Crie uma senha segura.\n\nVerifique seu e-mail e siga as instruções para confirmar sua conta.",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#tutoriais-e-livros-recomendados",
+    "href": "ambiente.html#tutoriais-e-livros-recomendados",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "Tutoriais e Livros Recomendados",
+    "text": "Tutoriais e Livros Recomendados\n\nQuarto Get Started\nR for Data Science (Hadley Wickham)\nHappy Git and GitHub for the useR (Jenny Bryan)",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente.html#documentação-oficial",
+    "href": "ambiente.html#documentação-oficial",
+    "title": "Softwares Necessários para a Disciplina",
+    "section": "Documentação Oficial",
+    "text": "Documentação Oficial\n\nQuarto Documentation\nAn Introduction to R\nRStudio User Guide\nGit Documentation",
+    "crumbs": [
+      "Início",
+      "Ambiente Computacional"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Econometria Aplicada II - 2026/1",
+    "section": "",
+    "text": "Esta disciplina tem como objetivo desenvolver, nos mestrandos, competências para compreender, implementar e interpretar alguns dos principais modelos univariados e multivariados para séries temporais aplicados a dados financeiros.",
+    "crumbs": [
+      "Início"
+    ]
+  },
+  {
+    "objectID": "index.html#bem-vindo-à-disciplina",
+    "href": "index.html#bem-vindo-à-disciplina",
+    "title": "Econometria Aplicada II - 2026/1",
+    "section": "",
+    "text": "Esta disciplina tem como objetivo desenvolver, nos mestrandos, competências para compreender, implementar e interpretar alguns dos principais modelos univariados e multivariados para séries temporais aplicados a dados financeiros.",
+    "crumbs": [
+      "Início"
+    ]
+  },
+  {
+    "objectID": "index.html#informações-gerais",
+    "href": "index.html#informações-gerais",
+    "title": "Econometria Aplicada II - 2026/1",
+    "section": "Informações Gerais",
+    "text": "Informações Gerais\n\nProfessor: Prof. Dr. Washington Santos da Silva\nE-mail: washington.silva@ifmg.edu.br\nHorário de aula: Quarta-Feira, 18:30-22:30\nLocal: Aulas Remotas Síncronas via Plataforma Google Meet, sendo que a última aula será presencial.",
+    "crumbs": [
+      "Início"
+    ]
+  },
+  {
+    "objectID": "index.html#conteúdo",
+    "href": "index.html#conteúdo",
+    "title": "Econometria Aplicada II - 2026/1",
+    "section": "Conteúdo",
+    "text": "Conteúdo\nO programa da disciplina está disponível na página Programa da Disciplina, nela você encontrará informações detalhadas sobre objetivos, ementa, bibliografia, avaliações, entre outras.\nO conteúdo da disciplina está organizado na página Cronograma, onde você encontrará os materiais necessários para acompanhar as aulas, incluindo slides, entre outros.",
+    "crumbs": [
+      "Início"
+    ]
+  }
+]

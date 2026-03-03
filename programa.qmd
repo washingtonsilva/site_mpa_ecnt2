@@ -1,0 +1,237 @@
+## Requisitos para a Disciplina
+
+Ainda que não tenham sido exigidos pré-requisitos formais, 
+como constava no edital de disciplinas optativas, consta que 
+para conseguir acompanhar esta disciplina optativa, 
+**recomendava-se fortemente** que o aluno tenha cursado, com aprovação, 
+as seguintes discplinas do Mestrado Profissional em Administração:
+
+- Introdução à Ciência de Dados
+- Econometria Aplicada à Finanças.
+
+Escrevi isto, por que assumirei que o aluno da disciplina possui os 
+conhecimentos necessários fornecidos nestas disciplinas, incluindo:
+
+- Linguagem R
+- Rstudio como IDE para R
+- Sistema de Publicação Quarto
+- Controle de Versão com Git e GitHub
+- Conhecimento intermediário de Teoria da Probabilidade
+- Conhecimento intermediário de Inferência Estatística
+- Conhecimento Intermediário de Teoria de Modelos de Regressão
+
+
+
+
+## Objetivo Geral
+
+Estudar modelos univariados e multivariados de séries temporais com aplicações
+a dados financeiros, com ênfase em estimação, diagnóstico, previsão e
+comunicação reprodutível de resultados em R. Serão abordados modelos de
+regressões dinâmicas (DL e ARDL), modelos ARMA/ARIMA, testes de raiz unitária,
+modelos de volatilidade (ARCH/GARCH) e modelos multivariados (VAR), além de uma
+introdução à cointegração e ao VECM.
+
+
+
+
+## Objetivos Específicos
+
+Ao final da disciplina, espera-se que o mestrando seja capaz de:
+
+- Diferenciar séries temporais de dados em seção cruzada e reconhecer 
+implicações para modelagem e inferência.
+
+- Realizar análise exploratória de séries temporais em R e descrever padrões 
+relevantes.
+
+- Ajustar, interpretar e diagnosticar modelos ARMA/ARIMA.
+
+- Produzir previsões com modelos ARIMA e avaliar desempenho preditivo contra 
+outros modelos.
+
+- Aplicar e interpretar testes de raiz unitária.
+
+- Ajustar e interpretar modelos ARCH/GARCH para volatilidade condicional.
+
+- Estimar e interpretar Vetores Autorregressivos (VAR), incluindo 
+causalidade de Granger e análise de impulso-resposta.
+
+- Compreender cointegração e ECM e reconhecer o papel do VECM como extensão.
+
+- Produzir relatórios reprodutíveis em Quarto com código em R.
+
+
+
+
+
+
+## Avaliação
+
+Trata-se de um planejamento e pode ser alterado conforme o andamento da 
+disciplina.
+
+1. **Avaliação 1 (33 pontos)**
+
+2. **Avaliação 2 (33 pontos)** 
+
+3. **Avaliação 3 (34 pontos)** 
+
+**Critério de aprovação:** nota média final igual ou superior a 60 pontos.
+
+
+
+
+## Bibliografia Básica
+
+BROOKS, C. **Introductory Econometrics for Finance**. 4th. ed. Cambridge: 
+Cambridge University Press, 2019.
+
+
+## Bibliografia Complementar
+
+HILL, R. C.; GRIFFITHS, W. E.; JUDGE, G. G. **Econometria**. 3. ed. 
+São Paulo: Saraiva, 2003.
+
+MORETTIN, P. A. **Econometria Financeira: um curso em séries temporais e financeiras**. 2. ed. São Paulo: Edgar Blucher, 2011.
+
+
+
+
+## Recursos Online
+
+Venables, W. N. & Smith, D. M. (2025). An Introduction to R. 
+Manual para R versão 4.5.1 (13 de junho de 2025). R Core Team. Disponível em [https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf){target="_blank"}
+
+[Documentação do Sistema Quarto](https://quarto.org/docs/guide/){target="_blank"}
+
+
+
+
+## Ementa
+
+Introdução à Análise de Séries Temporais. Introdução à Análise de Séries
+Temporais em R. Modelos de Defasagem Distribuída e Modelos Autorregressivos de
+Defasagem Distribuída. Modelos Univariados: ARMA/ARIMA, previsão,
+testes de raiz unitária. Modelos de volatilidade condicional (ARCH/GARCH).
+Cointegração e Modelos de Correção de Erro (ECM). Modelos
+multivariados: Vetores Autorregressivos (VAR), introdução ao VECM.
+
+
+
+
+## Conteúdo Planejado
+
+Trata-se apenas de um planejamento e pode ser alterado conforme o andamento 
+da disciplina e rendimento dos alunos.
+
+
+### 1 Fundamentos e organização do trabalho (R/Quarto/Git)
+
+- Apresentação da disciplina
+- Conceitos básicos de séries temporais
+- Organização de projeto reprodutível para a disciplina.
+
+
+### 2 Introdução à análise de séries temporais em R
+
+- Conceitos básicos
+- Classes de séries temporais em R.
+- Visualização de séries temporais e interpretação de padrões visuais.
+
+
+### 3. Regressões dinâmicas: DL e ARDL
+
+- Modelos de Defasagem Distribuída (DL)
+- Modelos Autorregressivos de Defasagem Distribuída (ARDL)
+
+
+### 4 Processos estacionários e modelos ARMA
+
+- Modelos AR, MA e ARMA
+- Identificação e Estimação de modelos ARMA
+- Diagnóstico
+
+
+### 5. Modelos ARIMA e Previsão
+
+- Metodologia de Box e Jenkins
+- Previsão e avaliação preditiva: erro de previsão
+
+
+### 6. Raiz unitária e cointegração
+
+- Motivação
+- Testes de raiz unitária
+- Cointegração
+- Modelos de Correção de Erro (ECM)
+
+
+### 7. Modelos ARCH/GARCH
+
+- Fatos estilizados em retornos financeiros
+- Modelos ARCH/GARCH: estimação, interpretação e diagnóstico.
+- Previsão da volatilidade e aplicação financeira.
+
+
+### 8. Séries multivariadas: VAR 
+
+- Vetores Autorregressivos (VAR)
+- Causalidade de Granger.
+- Funções impulso-resposta e decomposição da variância do erro de previsão.
+- Tópico Extra (se houver tempo): Introdução ao VECM
+
+
+
+
+## Recursos Didáticos e Materiais de Estudo
+
+Entre os recursos didáticos utilizados na disciplina estão:
+
+- **Materiais Primários para Estudo**:
+
+  - Bibliografia recomendada.
+
+  - Site da disciplina
+
+  - GitHub ou Google Classroom para submissão de atividades.
+  
+  - Slides e notas de aula (disponibilizados no site da disciplina).
+
+
+
+
+
+## Metodologia de Ensino
+
+
+A disciplina será conduzida de forma **teórico-aplicada**, com ênfase em
+implementação computacional e interpretação substantiva.
+
+- Aulas expositivas: apresentação dos conceitos e modelos.
+
+- Aulas práticas: Em cada aual, parte relevante do tempo será dedicada 
+à implementação dos métodos em R pelos mestrandos.
+
+- Simulações como ferramenta didática.
+
+- Atividades aplicadas.
+
+
+
+## Plano de Aula
+
+Trata-se apenas de um planejamento e, como todo planejamento, pode ser 
+alterado conforme o andamento da disciplina e o rendimento dos alunos.
+
+| Aula | Data       | Tópico |
+|------|------------|--------|
+| 1    | 04/03/2026 | Apresentação da disciplina. Conceitos básicos de séries temporais. Organização do workflow (R/Quarto/Git). EDA inicial de séries financeiras. |
+| 2    | 11/03/2026 | Regressões dinâmicas: modelos DL e ARDL.|
+| 3    | 18/03/2026 | Estacionariedade e dependência temporal. Processos AR, MA e ARMA. |
+| 4    | 25/03/2026 | Modelos ARIMA. Previsões. **Avaliação 1 (parcial – ~1h30):** atividade sobre DL/ARDL + conceitos básicos. |
+| 5    | 01/04/2026 | Testes de raiz unitária. Introdução à cointegração e ECM|
+| 6    | 08/04/2026 | Fatos estilizados de séries financeiras. Modelos ARCH/GARCH. **Avaliação 2 (parcial – ~1h30):** atividade envolvendo ARIMA e/ou ARCH/GARCH. |
+| 7    | 15/04/2026 | VAR, Causalidade de Granger, Impulso-Resposta. VECM |
+| 8    | 22/04/2026 | **Avaliação 3 (2h – integral):** avaliação final integrando um tema univariado e um multivariado|
+

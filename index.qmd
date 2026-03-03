@@ -1,0 +1,32 @@
+---
+lang: pt-BR
+title: "Econometria Aplicada II - 2026/1"
+subtitle: "Mestrado Profissional em Administração <br> IFMG Campus Formiga"
+---
+
+## Bem-vindo à disciplina
+
+Esta disciplina tem como objetivo desenvolver, nos mestrandos, 
+competências para compreender, implementar e interpretar alguns dos principais 
+modelos univariados e multivariados para séries temporais aplicados a 
+dados financeiros.
+
+
+## Informações Gerais
+
+- **Professor:** [Prof. Dr. Washington Santos da Silva](https://washingtonsilva.github.io){target="_blank"}
+- **E-mail:** washington.silva@ifmg.edu.br
+- **Horário de aula:** Quarta-Feira, 18:30-22:30
+- **Local:** Aulas Remotas Síncronas via Plataforma Google Meet, sendo 
+que a última aula será presencial.
+
+
+## Conteúdo
+
+O programa da disciplina está disponível na página 
+[Programa da Disciplina](programa.qmd), nela você encontrará informações 
+detalhadas sobre objetivos, ementa, bibliografia, avaliações, entre outras.
+
+O conteúdo da disciplina está organizado na página
+[Cronograma](cronograma.qmd), onde você encontrará os materiais 
+necessários para acompanhar as aulas, incluindo slides, entre outros.
