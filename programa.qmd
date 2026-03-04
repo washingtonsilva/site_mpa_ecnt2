@@ -213,7 +213,6 @@ Entre os recursos didáticos utilizados na disciplina estão:
 
 ## Metodologia de Ensino
 
-
 A disciplina será conduzida de forma **teórico-aplicada**, com ênfase em
 implementação computacional e interpretação substantiva.
 

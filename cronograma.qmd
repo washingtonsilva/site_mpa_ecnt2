@@ -28,8 +28,14 @@ navegador padrão.
 
 # Aula 1 (04/03)
 
+- **Slides:**
 
-- **Slides: INSERIR**
+  - [Slides Aula 1](slides/01-slides.html){target="_blank"}
+  
+- **Leituras/Estudo importantes**
+
+  - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
+
 
   
  
