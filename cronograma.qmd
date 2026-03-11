@@ -37,6 +37,29 @@ navegador padrão.
   - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
 
 
+
+
+
+# Aula 2 (11/03)
+
+- **Slides:**
+
+  - [Slides Aula 2](slides/02-slides.html){target="_blank"}
+  
+- **Relatório de Análise**
+
+  - [Modelos de Regressão com Séries Temporais em R](relatorios/01-relatorio.html){target="_blank"}
+  - [Arquivo macro.xls usando no relatório](dados/macro.xls){target="_blank"}
+  
+- **Exercícios**
+
+  - [Lista de Exercícios 1](listas/01-lista.html){target="_blank"}
+  
+- **Leituras/Estudo importantes**
+
+  - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
+
+
   
  
 
