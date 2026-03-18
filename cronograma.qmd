@@ -60,6 +60,25 @@ navegador padrão.
   - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
 
 
+
+
+
+# Aula 3 (18/03)
+
+- **Slides:**
+
+  - [Slides Aula 3](slides/03-slides.html){target="_blank"}
+  
+
+- **Exercícios**
+
+  - [Lista de Exercícios 2 - **Será incluída nos próximos dias**]
+
+  
+- **Leituras/Estudo importantes**
+
+  - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
+
   
  
 
