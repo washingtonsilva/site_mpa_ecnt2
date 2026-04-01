@@ -72,12 +72,27 @@ navegador padrão.
 
 - **Exercícios**
 
-  - [Lista de Exercícios 2 - **Será incluída nos próximos dias**]
+  - Estão nos slides da aula
 
   
 - **Leituras/Estudo importantes**
 
   - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
+  
+
+
+
+# Aula 4 (25/03)
+
+- **Slides:**
+
+  - [Slides Aula 4](slides/04-slides.html){target="_blank"}
+
+
+- **Leituras/Estudo importantes**
+
+  - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
+
 
   
  
