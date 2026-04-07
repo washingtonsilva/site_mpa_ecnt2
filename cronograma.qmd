@@ -89,9 +89,15 @@ navegador padrão.
   - [Slides Aula 4](slides/04-slides.html){target="_blank"}
 
 
+- **Exercícios**
+
+  - Estão nos slides da aula
+
+
 - **Leituras/Estudo importantes**
 
   - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
+  - [Forecasting: Principles and Practice, 3ed.](https://otexts.com/fpp3/){target="_blank"}
 
 
   
