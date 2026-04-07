@@ -82,6 +82,7 @@ navegador padrão.
 
 
 
+
 # Aula 4 (25/03)
 
 - **Slides:**
@@ -98,6 +99,37 @@ navegador padrão.
 
   - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
   - [Forecasting: Principles and Practice, 3ed.](https://otexts.com/fpp3/){target="_blank"}
+
+
+
+
+
+# Aula 5 (01/04)
+
+- **Slides:**
+
+
+
+
+
+# Aula 6 (08/04)
+
+- **Slides:**
+
+
+
+
+# Aula 7 (15/04)
+
+- **Slides:**
+
+
+
+
+
+# Aula 8 (22/04 - duração: 2 horas)
+
+- **Slides:**
 
 
   
