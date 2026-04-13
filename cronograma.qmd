@@ -67,7 +67,23 @@ navegador padrão.
 
 - **Slides:**
 
-  - [Slides Aula 3](slides/03-slides.html){target="_blank"}
+  
+
+
+
+# Aula 4 (25/03)
+
+- **Slides:**
+
+
+
+
+
+# Aula 5 (01/04)
+
+- **Slides:**
+
+  - [Slides Aula 5](slides/05-slides.html){target="_blank"}
   
 
 - **Exercícios**
@@ -78,16 +94,16 @@ navegador padrão.
 - **Leituras/Estudo importantes**
 
   - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
-  
 
 
 
 
-# Aula 4 (25/03)
+
+# Aula 6 (08/04)
 
 - **Slides:**
 
-  - [Slides Aula 4](slides/04-slides.html){target="_blank"}
+  - [Slides Aula 6](slides/06-slides.html){target="_blank"}
 
 
 - **Exercícios**
@@ -99,22 +115,6 @@ navegador padrão.
 
   - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
   - [Forecasting: Principles and Practice, 3ed.](https://otexts.com/fpp3/){target="_blank"}
-
-
-
-
-
-# Aula 5 (01/04)
-
-- **Slides:**
-
-
-
-
-
-# Aula 6 (08/04)
-
-- **Slides:**
 
 
 
