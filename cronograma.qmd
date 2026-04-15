@@ -135,6 +135,10 @@ navegador padrão.
 
   - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
   - [Artigo: Herranz, Edward. Unit root tests. 2017. Computational Statistics.](artigos/herranz2017.pdf){target="_blank"}
+  
+- **Materiais**
+
+  - [Planilha UKHP.xls de Brooks (2019)](dados/UKHP.xls){target="_blank"}
 
 
 
