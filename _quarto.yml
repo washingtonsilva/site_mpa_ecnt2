@@ -5,6 +5,9 @@ project:
     - "*.qmd"
   resources:
     - "dados/"
+    - "artigos/"
+    - "listas/"
+    - "relatorios/"
 
 website:
   title: "Econometria II"

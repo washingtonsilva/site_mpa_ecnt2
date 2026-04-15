@@ -123,13 +123,25 @@ navegador padrão.
 
 - **Slides:**
 
+  - [Slides Aula 7](slides/07-slides.html){target="_blank"}
+
+
+- **Exercícios**
+
+  - Estão nos slides da aula
+
+
+- **Leituras/Estudo importantes**
+
+  - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
+  - [Artigo: Herranz, Edward. Unit root tests. 2017. Computational Statistics.](artigos/herranz2017.pdf){target="_blank"}
+
 
 
 
 
 # Aula 8 (22/04 - duração: 2 horas)
 
-- **Slides:**
 
 
   
