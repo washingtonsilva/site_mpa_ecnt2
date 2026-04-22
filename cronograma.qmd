@@ -133,7 +133,7 @@ navegador padrão.
 
 - **Leituras/Estudo importantes**
 
-  - Cap. 6 (*Univariate Time-Series Modelling and Forecasting*) de Brooks (2019).
+  - Cap. 8 (*Modelling Long-Run Relationships in Finance*) de Brooks (2019).
   - [Artigo: Herranz, Edward. Unit root tests. 2017. Computational Statistics.](artigos/herranz2017.pdf){target="_blank"}
   
 - **Materiais**
@@ -143,8 +143,22 @@ navegador padrão.
 
 
 
-
 # Aula 8 (22/04 - duração: 2 horas)
+
+- **Slides:**
+
+  - [Slides Aula 8](slides/08-slides.html){target="_blank"}
+
+
+- **Exercício**
+
+  - Estão nos slides da aula
+
+
+- **Leituras/Estudo importantes**
+
+  - Cap. 8 (*Modelling Long-Run Relationships in Finance*) de Brooks (2019).
+
 
 
 
